@@ -9,7 +9,7 @@ const Projects = () => {
     technologies: ['.NET', 'React', 'SQL Server', 'Bootstrap'],
     image: 'cms1.png',
     github: 'https://github.com/amansahudev/College-Management-System',
-    live: 'cmsbydev.somee.com',
+    live: 'http://cmsbydev.somee.com',
     
   },
   {
